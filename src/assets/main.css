@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+    color: black;
+}
+
+.container {
+    width: 90%;
+    max-width: 960px;
+    margin: 80px auto;
+    border-radius: 20px;
+    box-shadow: 2px 4px 6px rgba(28, 6, 49, 0.1);
+    background-color: white;
+}
+
+.error {
+    color: rgb(250, 153, 170);
+    font-size: 14px;
+}
+button {
+    text-decoration: none;
+    background-color: rgb(235, 235, 235);
+    color: pink;
+    font-weight: 300;
+    border: 0;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
